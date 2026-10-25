@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-10-25T15:38:22",
-  "vehicle_count": 154,
+  "generated_at": "2026-10-25T16:55:59",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -50,23 +50,23 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2010 Toyota Corolla",
+      "vin": "2T1BU4EE0AC253531",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/1d8e5b9fde9a.html",
+      "year": 2010,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "used"
+    },
+    {
       "name": "2011 RAM 1500 SLT",
       "vin": "1D7RV1CT3BS686665",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/ff83066acc8e.html",
       "year": 2011,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
-    },
-    {
-      "name": "2013 Toyota Sienna XLE",
-      "vin": "5TDDK3DC1DS061619",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/5540f08fa91b.html",
-      "year": 2013,
-      "make": "Toyota",
-      "model": "Sienna",
       "condition": "used",
-      "price": 19968.0,
+      "price": 12068.0,
       "price_currency": "CAD"
     },
     {
@@ -142,17 +142,6 @@
       "model": "Cherokee",
       "condition": "used",
       "price": 22768.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Qashqai SV",
-      "vin": "JN1BJ1BW9MW438129",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/80b7a0367872.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 25064.0,
       "price_currency": "CAD"
     },
     {
@@ -252,17 +241,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 26309.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue SV | Heated Steering | Heated Seats",
-      "vin": "JN8BT3BBXPW207586",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/3c8e870c5608.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 29868.0,
       "price_currency": "CAD"
     },
     {
@@ -495,6 +473,15 @@
       "condition": "used",
       "price": 29568.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Sportage SX",
+      "vin": "KNDPXDDH3S7204576",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/d9f532c9863f.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used"
     },
     {
       "name": "2025 MINI Countryman Cooper S | Navigation | Hands free Lift Gate | Heated Front Seats & Steering Wheel",
