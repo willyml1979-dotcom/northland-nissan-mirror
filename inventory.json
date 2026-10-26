@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-10-25T16:55:59",
+  "generated_at": "2026-10-26T01:09:14",
   "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1292,7 +1292,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 50602.0,
+      "price": 49972.0,
       "price_currency": "CAD"
     },
     {
