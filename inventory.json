@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-10-26T09:36:57",
+  "generated_at": "2026-10-26T10:27:40",
   "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -114,13 +114,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Murano",
+      "name": "2018 Nissan Murano ",
       "vin": "5N1AZ2MH8JN193858",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/17258f73cbd7.html",
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "price": 31064.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020 RAM 1500 Classic Crew Cab Warlock",
