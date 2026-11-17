@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-10-26T10:27:40",
-  "vehicle_count": 153,
+  "generated_at": "2026-11-17T12:17:06",
+  "vehicle_count": 161,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -724,7 +724,7 @@
       "make": "Nissan",
       "model": "Frontier",
       "condition": "new",
-      "price": 63166.0,
+      "price": 63566.0,
       "price_currency": "CAD"
     },
     {
@@ -739,17 +739,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SV",
-      "vin": "3N8AP6CB7TL318628",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/b300bbfc1038.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 33952.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Kicks S",
       "vin": "3N8AP6BB5TL379204",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/9812a40bc1c2.html",
@@ -758,17 +747,6 @@
       "model": "Kicks",
       "condition": "new",
       "price": 33402.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Kicks SV",
-      "vin": "3N8AP6CB1TL391168",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/a5ec7df57846.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 35886.0,
       "price_currency": "CAD"
     },
     {
@@ -881,17 +859,6 @@
     },
     {
       "name": "2026 Nissan Pathfinder Platinum",
-      "vin": "5N1DR3DJXTC260044",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/4e26efa0d6c8.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "new",
-      "price": 64046.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Pathfinder Platinum",
       "vin": "5N1DR3DJ8TC277392",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ddee394bf83e.html",
       "year": 2026,
@@ -931,7 +898,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "new",
-      "price": 64596.0,
+      "price": 64942.0,
       "price_currency": "CAD"
     },
     {
@@ -976,17 +943,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 45722.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum",
-      "vin": "JN8BT3DD5TW485949",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/5e6d410aa876.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 50552.0,
       "price_currency": "CAD"
     },
     {
@@ -1035,17 +991,6 @@
     },
     {
       "name": "2026 Nissan Rogue SV Moonroof",
-      "vin": "JN8BT3BB0TW382326",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/16595663dd93.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 42422.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue SV Moonroof",
       "vin": "JN8BT3BB9TW382499",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/6a67f9dc993f.html",
       "year": 2026,
@@ -1064,17 +1009,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 50302.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Rock Creek",
-      "vin": "JN8BT3BBXTW383662",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ef4dd53bd143.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 46470.0,
       "price_currency": "CAD"
     },
     {
@@ -1189,17 +1123,6 @@
     },
     {
       "name": "2026 Nissan Rogue Platinum",
-      "vin": "JN8BT3DD6TW326132",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/42515d6c65b3.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 50516.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum",
       "vin": "JN8BT3DD2TW430018",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/5cb874921264.html",
       "year": 2026,
@@ -1218,17 +1141,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 46002.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue S",
-      "vin": "JN8BT3AB0TW100462",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/a0081c20be11.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 38552.0,
       "price_currency": "CAD"
     },
     {
@@ -1262,17 +1174,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 38802.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue SV Dark Armor",
-      "vin": "JN8BT3BB5TW390616",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/eec290d019ba.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 44372.0,
       "price_currency": "CAD"
     },
     {
@@ -1338,18 +1239,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 51146.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum",
-      "vin": "JN8BT3DD6TW021696",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/3084a51bff51.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 50602.0,
+      "price": 50516.0,
       "price_currency": "CAD"
     },
     {
@@ -1360,7 +1250,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 51146.0,
+      "price": 50516.0,
       "price_currency": "CAD"
     },
     {
@@ -1371,7 +1261,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 50602.0,
+      "price": 49972.0,
       "price_currency": "CAD"
     },
     {
@@ -1404,7 +1294,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 41882.0,
+      "price": 42022.0,
       "price_currency": "CAD"
     },
     {
@@ -1415,7 +1305,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "new",
-      "price": 30092.0,
+      "price": 29744.0,
       "price_currency": "CAD"
     },
     {
@@ -1426,7 +1316,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "new",
-      "price": 33472.0,
+      "price": 32411.0,
       "price_currency": "CAD"
     },
     {
@@ -1494,6 +1384,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Nissan Armada Platinum Reserve",
+      "vin": "JN8AY3CC7V9240271",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ac2b6f24ae81.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Armada",
+      "condition": "new",
+      "price": 111002.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Armada Platinum Reserve",
+      "vin": "JN8AY3CC2V9240386",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/e301888bf4cc.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Armada",
+      "condition": "new",
+      "price": 111002.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Nissan Frontier PRO-4X LEVELING KIT AND TIRES",
       "vin": "1N6ED1EK3VN600402",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/74f271f12c80.html",
@@ -1513,6 +1425,17 @@
       "model": "Frontier",
       "condition": "new",
       "price": 60366.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Frontier PRO-4X Luxury",
+      "vin": "1N6ED1EK5VN618111",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/a3e7e91fd934.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Frontier",
+      "condition": "new",
+      "price": 63066.0,
       "price_currency": "CAD"
     },
     {
@@ -1626,6 +1549,94 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Nissan Kicks SR",
+      "vin": "3N8AP6DD7VL323086",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/14dcd6e99f71.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 39466.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks SV",
+      "vin": "3N8AP6CB2VL320144",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/672c838e04d2.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 37622.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks SV",
+      "vin": "3N8AP6CB6VL323726",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/8635111bac21.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 37622.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks Rock Creek",
+      "vin": "3N8AP6CB2VL310956",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/9c0589591dec.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 38322.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks SV",
+      "vin": "3N8AP6CB4VL323711",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/e21515a25b6a.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 37752.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks SV",
+      "vin": "3N8AP6CB8VL310203",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/4b23ed5a6413.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 39722.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks SV",
+      "vin": "3N8AP6CBXVL333966",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/05a32a4268b1.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 39722.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Kicks Rock Creek",
+      "vin": "3N8AP6CB8VL345372",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ef29200405a5.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "new",
+      "price": 37872.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Nissan Murano Platinum",
       "vin": "5N1AZ3DS2VC100268",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/9b846d3cfffc.html",
@@ -1678,6 +1689,83 @@
       "model": "Murano",
       "condition": "new",
       "price": 63162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Murano Platinum",
+      "vin": "5N1AZ3DSXVC112734",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/163e925c0c76.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "new",
+      "price": 62512.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Murano Platinum",
+      "vin": "5N1AZ3DS9VC113826",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/da2c7d27e7ab.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "new",
+      "price": 62512.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Murano Dark Armor",
+      "vin": "5N1AZ3CS5VC110620",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/187f6eee47b7.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "new",
+      "price": 59252.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Murano Platinum",
+      "vin": "5N1AZ3DS3VC114065",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/c61c0336a846.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Murano",
+      "condition": "new",
+      "price": 62512.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Pathfinder Platinum",
+      "vin": "5N1DR3D77VC202514",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/669611cc9130.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "new",
+      "price": 64852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Rogue SR Hybrid",
+      "vin": "JN8AT4CA3VW002079",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/8e096e3bf992.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "new",
+      "price": 51866.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Sentra SV",
+      "vin": "3N1AB9CV7VY243055",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/5b199f362ed9.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "new",
+      "price": 31642.0,
       "price_currency": "CAD"
     }
   ]
