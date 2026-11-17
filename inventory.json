@@ -1,10 +1,19 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-11-17T12:17:06",
-  "vehicle_count": 161,
+  "generated_at": "2026-11-17T14:26:09",
+  "vehicle_count": 165,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2001 Chevrolet Silverado 2500",
+      "vin": "1GCHC29U31E167713",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/d41aedf327cd.html",
+      "year": 2001,
+      "make": "Chevrolet",
+      "model": "Silverado 2500",
+      "condition": "used"
+    },
     {
       "name": "2002 Dodge Caravan Sport",
       "vin": "1B4GP45R72B594910",
@@ -13,7 +22,7 @@
       "make": "Dodge",
       "model": "Caravan Sport",
       "condition": "used",
-      "price": 3998.0,
+      "price": 3989.0,
       "price_currency": "CAD"
     },
     {
@@ -39,26 +48,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2007 Mazda Mazda5 GS",
-      "vin": "JM1CR193970148616",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/5ac2b7c65857.html",
-      "year": 2007,
-      "make": "Mazda",
-      "model": "Mazda5",
-      "condition": "used",
-      "price": 3998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Toyota Corolla",
-      "vin": "2T1BU4EE0AC253531",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/1d8e5b9fde9a.html",
-      "year": 2010,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used"
-    },
-    {
       "name": "2011 RAM 1500 SLT",
       "vin": "1D7RV1CT3BS686665",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/ff83066acc8e.html",
@@ -67,6 +56,28 @@
       "model": "1500",
       "condition": "used",
       "price": 12068.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Nissan Versa SV",
+      "vin": "3N1CN7AP5DL846798",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/bbb63d50d110.html",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Versa",
+      "condition": "used",
+      "price": 5068.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 GMC Terrain SLE",
+      "vin": "2GKFLWE37E6222111",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/22147a805a99.html",
+      "year": 2014,
+      "make": "GMC",
+      "model": "Terrain",
+      "condition": "used",
+      "price": 6504.0,
       "price_currency": "CAD"
     },
     {
@@ -103,25 +114,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Compass Sport",
-      "vin": "3C4NJDAB3JT493381",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/e719163f2991.html",
+      "name": "2018 Kia Soul EX+",
+      "vin": "KNDJP3A51J7557925",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/ff197de938da.html",
       "year": 2018,
-      "make": "Jeep",
-      "model": "Compass",
+      "make": "Kia",
+      "model": "Soul",
       "condition": "used",
-      "price": 7668.0,
+      "price": 18064.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Murano ",
-      "vin": "5N1AZ2MH8JN193858",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/17258f73cbd7.html",
+      "name": "2018 Nissan Rogue SL",
+      "vin": "JN8AT2MV8JW321459",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/88bf399898bb.html",
       "year": 2018,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Rogue",
       "condition": "used",
-      "price": 31064.0,
+      "price": 19058.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Cadillac XT4 AWD Luxury",
+      "vin": "1GYFZBR4XKF228602",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/04d5901f8392.html",
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XT4",
+      "condition": "used",
+      "price": 18814.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Rogue SV",
+      "vin": "5N1AT2MV7LC817753",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/a671ed1a7b88.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 22069.0,
       "price_currency": "CAD"
     },
     {
@@ -136,6 +169,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Toyota Tacoma Double Cab ",
+      "vin": "5TFDZ5BN3LX048018",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/b2b6dc53d68d.html",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "Tacoma Double Cab",
+      "condition": "used",
+      "price": 40059.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Jeep Cherokee Sport | Automatic Headlights",
       "vin": "1C4PJMAX9MD145812",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/88a54d50dad9.html",
@@ -147,14 +191,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Nissan Rogue SV",
-      "vin": "5N1AT3BB9MC836210",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/c5ebf52e2f1e.html",
+      "name": "2021 Jeep Gladiator Rubicon",
+      "vin": "1C6JJTBG6ML536167",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/01c9591b4a16.html",
       "year": 2021,
-      "make": "Nissan",
-      "model": "Rogue",
+      "make": "Jeep",
+      "model": "Gladiator",
       "condition": "used",
-      "price": 23914.0,
+      "price": 44064.0,
       "price_currency": "CAD"
     },
     {
@@ -169,14 +213,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Toyota 4Runner ",
-      "vin": "JTERU5JR4M5905979",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/c5af70d2e641.html",
+      "name": "2021 Volkswagen Jetta Sedan Execline",
+      "vin": "3VWG57BU5MM076287",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/2a679e989a40.html",
       "year": 2021,
-      "make": "Toyota",
-      "model": "4Runner",
+      "make": "Volkswagen",
+      "model": "Jetta",
       "condition": "used",
-      "price": 48064.0,
+      "price": 24064.0,
       "price_currency": "CAD"
     },
     {
@@ -188,6 +232,17 @@
       "model": "Frontier",
       "condition": "used",
       "price": 32968.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Nissan Kicks SV",
+      "vin": "3N1CP5CV9NL525696",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/b4bcd253d0cd.html",
+      "year": 2022,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 21080.0,
       "price_currency": "CAD"
     },
     {
@@ -224,6 +279,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Kia Sorento EX+",
+      "vin": "5XYRHDLF9PG211161",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/139046fd812c.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 25068.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Nissan Pathfinder SV | Rock Creek",
       "vin": "5N1DR3BE4PC248970",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/d089063de6fd.html",
@@ -231,7 +297,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 41064.0,
+      "price": 41068.0,
       "price_currency": "CAD"
     },
     {
@@ -246,6 +312,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Nissan Rogue SV Midnight Edition",
+      "vin": "JN8BT3BB8PW219798",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/535fdd496b12.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 26068.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Nissan Versa SR",
       "vin": "3N1CN8FV6PL865667",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/2e63550987ff.html",
@@ -257,14 +334,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Outlander SEL",
-      "vin": "JA4J4VA83RZ621939",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/95ed338fdb37.html",
+      "name": "2024 Ford F-150 XLT",
+      "vin": "1FTFW3L83RKD26310",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/08bd0fe55c34.html",
       "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander",
+      "make": "Ford",
+      "model": "F-150",
       "condition": "used",
-      "price": 36714.0,
+      "price": 45068.0,
       "price_currency": "CAD"
     },
     {
@@ -290,17 +367,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks S",
-      "vin": "3N1CP5BV6RL548005",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/c02db13bb8c0.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 22814.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Pathfinder ",
       "vin": "5N1DR3BE5RC269619",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/a81c8b759f16.html",
@@ -309,6 +375,28 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 44064.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Pathfinder SL",
+      "vin": "5N1DR3CE2RC249780",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/25f88c324919.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 42968.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Pathfinder Platinum",
+      "vin": "5N1DR3DF3RC204550",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/15dfe14ab20c.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 43064.0,
       "price_currency": "CAD"
     },
     {
@@ -331,17 +419,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 27968.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Sentra SV",
-      "vin": "3N1AB8CV8RY285945",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/5cff6294f68c.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 23668.0,
       "price_currency": "CAD"
     },
     {
@@ -418,7 +495,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "used",
-      "price": 41868.0,
+      "price": 41968.0,
       "price_currency": "CAD"
     },
     {
@@ -429,7 +506,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 28074.0,
+      "price": 28068.0,
       "price_currency": "CAD"
     },
     {
@@ -440,7 +517,7 @@
       "make": "Infiniti",
       "model": "QX60",
       "condition": "used",
-      "price": 39480.0,
+      "price": 39668.0,
       "price_currency": "CAD"
     },
     {
@@ -451,7 +528,7 @@
       "make": "Jeep",
       "model": "Compass",
       "condition": "used",
-      "price": 39268.0,
+      "price": 39368.0,
       "price_currency": "CAD"
     },
     {
@@ -462,7 +539,18 @@
       "make": "Kia",
       "model": "K4",
       "condition": "used",
-      "price": 23858.0,
+      "price": 23668.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Sportage Plug-in Hybrid SX",
+      "vin": "KNDPXDDH3S7204576",
+      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/e1b136673dc2.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "used",
+      "price": 44914.0,
       "price_currency": "CAD"
     },
     {
@@ -473,17 +561,8 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 29568.0,
+      "price": 29068.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia Sportage SX",
-      "vin": "KNDPXDDH3S7204576",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/d9f532c9863f.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used"
     },
     {
       "name": "2025 MINI Countryman Cooper S | Navigation | Hands free Lift Gate | Heated Front Seats & Steering Wheel",
@@ -493,18 +572,7 @@
       "make": "MINI",
       "model": "Countryman",
       "condition": "used",
-      "price": 36714.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander ES",
-      "vin": "JA4J4UA89SZ626885",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/71174daf611a.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 35319.0,
+      "price": 36114.0,
       "price_currency": "CAD"
     },
     {
@@ -515,7 +583,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 24532.0,
+      "price": 24268.0,
       "price_currency": "CAD"
     },
     {
@@ -526,7 +594,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 24568.0,
+      "price": 24268.0,
       "price_currency": "CAD"
     },
     {
@@ -537,7 +605,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 24514.0,
+      "price": 24168.0,
       "price_currency": "CAD"
     },
     {
@@ -548,7 +616,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 28014.0,
+      "price": 27868.0,
       "price_currency": "CAD"
     },
     {
@@ -574,17 +642,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado 1500 LT",
-      "vin": "2GCUKDED6T1123521",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/66eab75b5b46.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 53014.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage LX",
       "vin": "KNDPUCDF5T7479739",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/00f0f0ab6e0a.html",
@@ -592,7 +649,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 37567.0,
+      "price": 36947.0,
       "price_currency": "CAD"
     },
     {
@@ -603,18 +660,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 28414.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum",
-      "vin": "JN8BT3DD7TW306388",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/97f1e76c14a8.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 42814.0,
+      "price": 28268.0,
       "price_currency": "CAD"
     },
     {
