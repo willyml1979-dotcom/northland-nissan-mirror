@@ -1,6 +1,6 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-11-18T11:27:01",
+  "generated_at": "2026-11-18T12:24:08",
   "vehicle_count": 163,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -176,7 +176,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 22768.0,
+      "price": 22614.0,
       "price_currency": "CAD"
     },
     {
@@ -198,7 +198,7 @@
       "make": "Subaru",
       "model": "Ascent",
       "condition": "used",
-      "price": 20014.0,
+      "price": 17819.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +242,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 31914.0,
+      "price": 31314.0,
       "price_currency": "CAD"
     },
     {
@@ -253,7 +253,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 27975.0,
+      "price": 27914.0,
       "price_currency": "CAD"
     },
     {
@@ -264,7 +264,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 31068.0,
+      "price": 30758.0,
       "price_currency": "CAD"
     },
     {
@@ -297,7 +297,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26309.0,
+      "price": 25768.0,
       "price_currency": "CAD"
     },
     {
@@ -308,7 +308,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 21768.0,
+      "price": 21314.0,
       "price_currency": "CAD"
     },
     {
@@ -352,7 +352,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 25523.0,
+      "price": 25114.0,
       "price_currency": "CAD"
     },
     {
@@ -396,7 +396,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 30868.0,
+      "price": 28668.0,
       "price_currency": "CAD"
     },
     {
@@ -429,7 +429,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 37914.0,
+      "price": 35914.0,
       "price_currency": "CAD"
     },
     {
@@ -653,58 +653,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Rogue SV AWD",
       "vin": "JN8BT3BB5TW087075",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/f1371ba5d108.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 32788.0,
+      "price": 32468.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Rogue SV AWD",
       "vin": "JN8BT3BBXTW086570",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/485fe99cb8e4.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 33031.0,
+      "price": 32668.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Rogue SV AWD",
       "vin": "JN8BT3BB7TW376328",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/260d61f06be1.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 33194.0,
+      "price": 32744.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Rogue SV AWD",
       "vin": "JN8BT3BB0TW090191",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/e8f9d53f2b9a.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 32852.0,
+      "price": 32614.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Rogue SV AWD",
       "vin": "JN8BT3BB2TW085459",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/31837c15fb01.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 32987.0,
+      "price": 32537.0,
       "price_currency": "CAD"
     },
     {
