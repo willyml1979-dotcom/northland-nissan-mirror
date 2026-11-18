@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-11-17T14:26:09",
-  "vehicle_count": 165,
+  "generated_at": "2026-11-18T02:43:41",
+  "vehicle_count": 164,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1290,17 +1290,6 @@
     },
     {
       "name": "2026 Nissan Rogue Platinum",
-      "vin": "JN8BT3DD7TW021383",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/2a5c68280481.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 50516.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Rogue Platinum",
       "vin": "JN8BT3DD6TW022069",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/de8ac8596fac.html",
       "year": 2026,
@@ -1373,7 +1362,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "new",
-      "price": 31262.0,
+      "price": 29688.0,
       "price_currency": "CAD"
     },
     {
@@ -1518,25 +1507,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SR",
+      "name": "2027 Nissan Kicks SR PREMIUM",
       "vin": "3N8AP6DD1VL322533",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/4850a090cde2.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 39102.0,
+      "price": 39466.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV",
+      "name": "2027 Nissan Kicks SV ROCK CREEK",
       "vin": "3N8AP6CB2VL322766",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/2493dcb33dbf.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 36852.0,
+      "price": 38678.0,
       "price_currency": "CAD"
     },
     {
@@ -1547,18 +1536,18 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 39102.0,
+      "price": 40096.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV",
+      "name": "2027 Nissan Kicks SV ROCK CREEK",
       "vin": "3N8AP6CB8VL322111",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/02750313435d.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 36852.0,
+      "price": 38678.0,
       "price_currency": "CAD"
     },
     {
@@ -1734,7 +1723,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "new",
-      "price": 63162.0,
+      "price": 62502.0,
       "price_currency": "CAD"
     },
     {
