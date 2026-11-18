@@ -7,7 +7,7 @@ Northland Nissan is a  dealership in Prince George. This site is an AI-readable 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ (about 164 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/northland-nissan-mirror/new/ (about 161 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/northland-nissan-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/northland-nissan-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/northland-nissan-mirror/llms.txt

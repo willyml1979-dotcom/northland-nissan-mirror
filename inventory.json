@@ -1,7 +1,7 @@
 {
   "dealership": "Northland Nissan",
-  "generated_at": "2026-11-18T02:43:41",
-  "vehicle_count": 164,
+  "generated_at": "2026-11-18T03:45:56",
+  "vehicle_count": 161,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -33,7 +33,7 @@
       "make": "Chevrolet",
       "model": "Impala",
       "condition": "used",
-      "price": 3998.0,
+      "price": 3997.0,
       "price_currency": "CAD"
     },
     {
@@ -55,7 +55,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 12068.0,
+      "price": 12009.0,
       "price_currency": "CAD"
     },
     {
@@ -70,17 +70,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 GMC Terrain SLE",
-      "vin": "2GKFLWE37E6222111",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/22147a805a99.html",
-      "year": 2014,
-      "make": "GMC",
-      "model": "Terrain",
-      "condition": "used",
-      "price": 6504.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 Nissan Pathfinder S",
       "vin": "5N1AR2MM7EC731576",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/c7ad14652e4d.html",
@@ -88,7 +77,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 9014.0,
+      "price": 8967.0,
       "price_currency": "CAD"
     },
     {
@@ -99,7 +88,7 @@
       "make": "Nissan",
       "model": "Juke",
       "condition": "used",
-      "price": 15114.0,
+      "price": 15067.0,
       "price_currency": "CAD"
     },
     {
@@ -165,7 +154,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 32724.0,
+      "price": 31869.0,
       "price_currency": "CAD"
     },
     {
@@ -231,18 +220,7 @@
       "make": "Nissan",
       "model": "Frontier",
       "condition": "used",
-      "price": 32968.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Kicks SV",
-      "vin": "3N1CP5CV9NL525696",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/b4bcd253d0cd.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 21080.0,
+      "price": 32714.0,
       "price_currency": "CAD"
     },
     {
@@ -312,17 +290,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Rogue SV Midnight Edition",
-      "vin": "JN8BT3BB8PW219798",
-      "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/535fdd496b12.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 26068.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Nissan Versa SR",
       "vin": "3N1CN8FV6PL865667",
       "url": "https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/2e63550987ff.html",
@@ -352,7 +319,7 @@
       "make": "Nissan",
       "model": "Altima",
       "condition": "used",
-      "price": 36064.0,
+      "price": 35968.0,
       "price_currency": "CAD"
     },
     {
@@ -374,7 +341,7 @@
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 44064.0,
+      "price": 43768.0,
       "price_currency": "CAD"
     },
     {
@@ -418,7 +385,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 27968.0,
+      "price": 27067.0,
       "price_currency": "CAD"
     },
     {
@@ -429,7 +396,7 @@
       "make": "Nissan",
       "model": "Versa",
       "condition": "used",
-      "price": 23014.0,
+      "price": 20949.0,
       "price_currency": "CAD"
     },
     {
@@ -473,7 +440,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 49668.0,
+      "price": 49368.0,
       "price_currency": "CAD"
     },
     {
@@ -627,7 +594,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 38758.0,
+      "price": 38368.0,
       "price_currency": "CAD"
     },
     {
@@ -638,7 +605,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 49788.0,
+      "price": 49768.0,
       "price_currency": "CAD"
     },
     {
