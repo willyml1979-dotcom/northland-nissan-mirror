@@ -1,6 +1,6 @@
 # Northland Nissan
 
- dealership in Prince George. AI-readable inventory mirror, about 161 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 163 vehicles.
 
 - Official website: https://www.northlandnissan.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/northland-nissan-mirror/used/
